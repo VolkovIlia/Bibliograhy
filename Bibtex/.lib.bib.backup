@@ -202,6 +202,34 @@
  year = {2020}
 }
 
+@article{lin_li2009,
+ author = {Liangxu Lin and Zhaohui Li and Ying Zheng and Kemei Wei},
+ doi = {10.1111/j.1551-2916.2009.02964.x},
+ file = {:/home/volk/Library/PDFs/2009/lin_li2009.pdf:pdf},
+ month = {jun},
+ number = {6},
+ pages = {1347--1349},
+ publisher = {Wiley},
+ title = {Synthesis and Application in the {CO} Oxidation Conversion Reaction of Hexagonal Boron Nitride with High Surface Area},
+ url = {https://doi.org/10.1111%2Fj.1551-2916.2009.02964.x},
+ volume = {92},
+ year = {2009}
+}
+
+@article{makaryan_sedov2021,
+ author = {I. A. Makaryan and I. V. Sedov},
+ doi = {10.1134/s0965544121090085},
+ file = {:/home/volk/Library/PDFs/2021/makaryan_sedov2021.pdf:pdf},
+ month = {aug},
+ number = {9},
+ pages = {977--988},
+ publisher = {Pleiades Publishing Ltd},
+ title = {Hydrogenation/Dehydrogenation Catalysts for Hydrogen Storage Systems Based on Liquid Organic Carriers (A Review)},
+ url = {https://doi.org/10.1134%2Fs0965544121090085},
+ volume = {61},
+ year = {2021}
+}
+
 @article{Matveev_2020,
  author = {Matveev, A.T. and Permyakova, E.S. and Kovalskii, A.M. and Leibo, D. and Shchetinin, I.V. and Maslakov, K.I. and Golberg, D.V. and Shtansky, D.V. and Konopatsky, A.S.},
  doi = {10.1016/j.ceramint.2020.05.041},
@@ -241,6 +269,49 @@
  title = {Controlled synthesis of porous Zn/Fe based layered double hydroxides: Synthesis mechanism, and ciprofloxacin adsorption},
  url = {https://doi.org/10.1016%2Fj.seppur.2021.119481},
  year = {2021}
+}
+
+@article{song_dong2021,
+ author = {Tongyuan Song and Jinhu Dong and Rongtan Li and Xiaoyan Xu and Matsumoto Hiroaki and Bing Yang and Rankun Zhang and Yunxing Bai and Hui Xin and Le Lin and Rentao Mu and Qiang Fu and Xinhe Bao},
+ doi = {10.1021/acs.jpclett.1c00934},
+ file = {:/home/volk/Library/PDFs/2021/song_dong2021.pdf:pdf},
+ month = {apr},
+ number = {17},
+ pages = {4187--4194},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Oxidative Strong Metal{\textendash}Support Interactions between Metals and Inert Boron Nitride},
+ url = {https://doi.org/10.1021%2Facs.jpclett.1c00934},
+ volume = {12},
+ year = {2021}
+}
+
+@article{sun_fu2017,
+ author = {Mengmeng Sun and Qiang Fu and Lijun Gao and Yanping Zheng and Yangyang Li and Mingshu Chen and Xinhe Bao},
+ doi = {10.1007/s12274-017-1512-8},
+ file = {:/home/volk/Library/PDFs/2017/sun_fu2017.pdf:pdf},
+ month = {mar},
+ number = {4},
+ pages = {1403--1412},
+ publisher = {Springer Science and Business Media {LLC}},
+ title = {Catalysis under shell: Improved {CO} oxidation reaction confined in Pt@h-{BN} core{\textendash}shell nanoreactors},
+ url = {https://doi.org/10.1007%2Fs12274-017-1512-8},
+ volume = {10},
+ year = {2017}
+}
+
+@article{Thuy-mai_2017,
+ author = {Tran-Thuy, Tuyet-Mai and Chen, Chin-Chih and Lin, Shawn D.},
+ doi = {10.1021/acscatal.7b01374},
+ eprint = { 
+https://doi.org/10.1021/acscatal.7b01374},
+ journal = {ACS Catalysis},
+ number = {7},
+ pages = {4304-4312},
+ title = {Spectroscopic Studies of How Moisture Enhances CO Oxidation over Au/BN at Ambient Temperature},
+ url = { 
+https://doi.org/10.1021/acscatal.7b01374},
+ volume = {7},
+ year = {2017}
 }
 
 @article{Tkachenko_2015,
@@ -320,5 +391,18 @@
  title = {Methanol production from biomass syngas using Cu/ZnO/Al2O3 catalyst},
  url = {http://dx.doi.org/10.1063/5.0000870},
  year = {2020}
+}
+
+@article{zhu_wu2017,
+ author = {Wenshuai Zhu and Zili Wu and Guo Shiou Foo and Xiang Gao and Mingxia Zhou and Bin Liu and Gabriel M. Veith and Peiwen Wu and Katie L. Browning and Ho Nyung Lee and Huaming Li and Sheng Dai and Huiyuan Zhu},
+ doi = {10.1038/ncomms15291},
+ file = {:/home/volk/Library/PDFs/2017/zhu_wu2017.pdf:pdf},
+ month = {jun},
+ number = {1},
+ publisher = {Springer Science and Business Media {LLC}},
+ title = {Taming interfacial electronic properties of platinum nanoparticles on vacancy-abundant boron nitride nanosheets for enhanced catalysis},
+ url = {https://doi.org/10.1038%2Fncomms15291},
+ volume = {8},
+ year = {2017}
 }
 

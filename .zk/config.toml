@@ -1,0 +1,4 @@
+[group.diary]
+paths = ["Journal/Diary"]
+[group.diary.note]
+filename = "{{date now}}"
