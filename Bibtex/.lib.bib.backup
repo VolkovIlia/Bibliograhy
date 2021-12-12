@@ -76,6 +76,35 @@
  year = {1992}
 }
 
+@article{chen_lai2021,
+ author = {I-Wen P. Chen and Yan-Ming Lai and Wei-Sheng Liao},
+ doi = {10.3390/nano11092436},
+ file = {:/home/volk/Library/PDFs/2021/chen_lai2021.pdf:pdf},
+ month = {sep},
+ number = {9},
+ pages = {2436},
+ publisher = {{MDPI} {AG}},
+ title = {One-Pot Synthesis of Chlorophyll-Assisted Exfoliated {MoS}2/{WS}2 Heterostructures via Liquid-Phase Exfoliation Method for Photocatalytic Hydrogen Production},
+ url = {https://doi.org/10.3390%2Fnano11092436},
+ volume = {11},
+ year = {2021}
+}
+
+@article{chiawchan_ramamoorthy2021,
+ author = {Chiawchan, Tinna and Ramamoorthy, Harihara and Buapan, Kanokwan and Somphonsane, Ratchanok},
+ doi = {10.3390/nano11102642},
+ file = {:/home/volk/Library/PDFs/2021/chiawchan_ramamoorthy2021.pdf:pdf},
+ journal = {Nanomaterials},
+ month = {10},
+ number = {10},
+ pages = {2642},
+ publisher = {MDPI AG},
+ title = {CVD Synthesis of Intermediate State-Free, Large-Area and Continuous MoS2 via Single-Step Vapor-Phase Sulfurization of MoO2 Precursor},
+ url = {http://dx.doi.org/10.3390/nano11102642},
+ volume = {11},
+ year = {2021}
+}
+
 @article{dai_zhang2017,
  author = {Chengyi Dai and Anfeng Zhang and Lei Luo and Xinbao Zhang and Min Liu and Junhu Wang and Xinwen Guo and Chunshan Song},
  doi = {10.1016/j.cattod.2017.02.001},
@@ -100,6 +129,32 @@
  url = {https://doi.org/10.1016%2Fj.jcou.2016.07.002},
  volume = {16},
  year = {2016}
+}
+
+@article{deerattrakul_yigit2019,
+ author = {Varisara Deerattrakul and Nevzat Yigit and GÃ¼nther Rupprechter and Paisan Kongkachuichay},
+ doi = {10.1016/j.apcata.2019.04.030},
+ file = {:/home/volk/Library/PDFs/2019/deerattrakul_yigit2019.pdf:pdf},
+ month = {jun},
+ pages = {46--52},
+ publisher = {Elsevier {BV}},
+ title = {The roles of nitrogen species on graphene aerogel supported Cu-Zn as efficient catalysts for {CO}2 hydrogenation to methanol},
+ url = {https://doi.org/10.1016%2Fj.apcata.2019.04.030},
+ volume = {580},
+ year = {2019}
+}
+
+@article{ding_chen2021,
+ author = {Shipeng Ding and Hsi-An Chen and Okorn Mekasuwandumrong and Max J. HÃ¼lsey and Xinpu Fu and Qian He and Joongjai Panpranot and Chia-Min Yang and Ning Yan},
+ doi = {10.1016/j.apcatb.2020.119471},
+ file = {:/home/volk/Library/PDFs/2021/ding_chen2021.pdf:pdf},
+ month = {feb},
+ pages = {119471},
+ publisher = {Elsevier {BV}},
+ title = {High-temperature flame spray pyrolysis induced stabilization of Pt single-atom catalysts},
+ url = {https://doi.org/10.1016%2Fj.apcatb.2020.119471},
+ volume = {281},
+ year = {2021}
 }
 
 @article{Doebelin_2015,
@@ -213,6 +268,19 @@
  year = {2020}
 }
 
+@article{kovalskii_volkov2022,
+ author = {Andrey M. Kovalskii and Ilia N. Volkov and Nikolay D. Evdokimenko and Olga P. Tkachenko and Denis V. Leybo and Ilya V. Chepkasov and Zakhar I. Popov and Andrei T. Matveev and Anton Manakhov and Elizaveta S. Permyakova and Anton S. Konopatsky and Alexander L. Kustov and Dmitri V. Golberg and Dmitry V. Shtansky},
+ doi = {10.1016/j.apcatb.2021.120891},
+ file = {:/home/volk/Library/PDFs/2022/kovalskii_volkov2022.pdf:pdf},
+ month = {apr},
+ pages = {120891},
+ publisher = {Elsevier {BV}},
+ title = {Hexagonal {BN}- and {BNO}-supported Au and Pt nanocatalysts in carbon monoxide oxidation and carbon dioxide hydrogenation reactions},
+ url = {https://doi.org/10.1016%2Fj.apcatb.2021.120891},
+ volume = {303},
+ year = {2022}
+}
+
 @article{kwak_moon2021,
  author = {Yeonsu Kwak and Seongeun Moon and Chang-il Ahn and Ah-Reum Kim and Yongha Park and Yongmin Kim and Hyuntae Sohn and Hyangsoo Jeong and Suk Woo Nam and Chang Won Yoon and Young Suk Jo},
  doi = {10.1016/j.fuel.2020.119285},
@@ -224,6 +292,33 @@
  url = {https://doi.org/10.1016%2Fj.fuel.2020.119285},
  volume = {284},
  year = {2021}
+}
+
+@article{lai_yeh2020,
+ author = {Yung-Yu Lai and Yen-Wei Yeh and An-Jye Tzou and Yi-Yuan Chen and YewChung Sermon Wu and Yuh-Jen Cheng and Hao-Chung Kuo},
+ doi = {10.3390/nano10091828},
+ file = {:/home/volk/Library/PDFs/2020/lai_yeh2020.pdf:pdf},
+ month = {sep},
+ number = {9},
+ pages = {1828},
+ publisher = {{MDPI} {AG}},
+ title = {Dependence of Photoresponsivity and On/Off Ratio on Quantum Dot Density in Quantum Dot Sensitized {MoS}2 Photodetector},
+ url = {https://doi.org/10.3390%2Fnano10091828},
+ volume = {10},
+ year = {2020}
+}
+
+@article{li_xiang2019,
+ author = {Yulan Li and Fei Xiang and Wenhao Lou and Xinlun Zhang},
+ doi = {10.1088/1755-1315/300/5/052021},
+ file = {:/home/volk/Library/PDFs/2019/li_xiang2019.pdf:pdf},
+ month = {aug},
+ pages = {052021},
+ publisher = {{IOP} Publishing},
+ title = {{MoS}2 with structure tuned photocatalytic ability for degradation of methylene blue},
+ url = {https://doi.org/10.1088%2F1755-1315%2F300%2F5%2F052021},
+ volume = {300},
+ year = {2019}
 }
 
 @article{lin_li2009,
@@ -248,10 +343,25 @@
  number = {7648},
  pages = {80--83},
  publisher = {Springer Science and Business Media {LLC}},
- title = {Low-temperature hydrogen production from water and methanol using Pt/$\upalpha$-{MoC} catalysts},
+ title = {Low-temperature hydrogen production from water and methanol using {Pt}/{$\alpha$-MoC} catalysts},
  url = {https://doi.org/10.1038%2Fnature21672},
  volume = {544},
  year = {2017}
+}
+
+@article{liu_wu2021,
+ author = {Liu, Lulu and Wu, Wanfeng and Fang, Yan and Liu, Haoqiang and Chen, Fei and Zhang, Minwei and Qin, Yanan},
+ doi = {10.3390/nano11112829},
+ file = {:/home/volk/Library/PDFs/2021/liu_wu2021.pdf:pdf},
+ journal = {Nanomaterials},
+ month = {10},
+ number = {11},
+ pages = {2829},
+ publisher = {MDPI AG},
+ title = {Functionalized MoS2 Nanoflowers with Excellent Near-Infrared Photothermal Activities for Scavenging of Antibiotic Resistant Bacteria},
+ url = {http://dx.doi.org/10.3390/nano11112829},
+ volume = {11},
+ year = {2021}
 }
 
 @article{maiti_maiti2021,
@@ -295,6 +405,20 @@
  url = {http://dx.doi.org/10.1016/j.ceramint.2020.05.041},
  volume = {46},
  year = {2020}
+}
+
+@article{ning_yang2013,
+ author = {Wensheng Ning and Shoubin Yang and Hongxian Chen and Muneyoshi Yamada},
+ doi = {10.1016/j.catcom.2013.05.013},
+ file = {:/home/volk/Library/PDFs/2013/ning_yang2013.pdf:pdf},
+ journal = {Catalysis Communications},
+ month = {sep},
+ pages = {74--77},
+ publisher = {Elsevier {BV}},
+ title = {Influences of K and Cu on coprecipitated {FeZn} catalysts for Fischer{\textendash}Tropsch reaction},
+ url = {https://doi.org/10.1016%2Fj.catcom.2013.05.013},
+ volume = {39},
+ year = {2013}
 }
 
 @article{perrette_landerer2013,
@@ -459,6 +583,21 @@ https://doi.org/10.1021/acscatal.7b01374},
  year = {2021}
 }
 
+@article{wang_arandiyan2018,
+ author = {Yuan Wang and Hamidreza Arandiyan and Jason Scott and Kondo-Francois Aguey-Zinsou and Rose Amal},
+ doi = {10.1021/acsaem.8b00817},
+ file = {:/home/volk/Library/PDFs/2018/wang_arandiyan2018.pdf:pdf},
+ journal = {{ACS} Applied Energy Materials},
+ month = {nov},
+ number = {12},
+ pages = {6781--6789},
+ publisher = {American Chemical Society ({ACS})},
+ title = {Single Atom and Nanoclustered Pt Catalysts for Selective {CO}2 Reduction},
+ url = {https://doi.org/10.1021%2Facsaem.8b00817},
+ volume = {1},
+ year = {2018}
+}
+
 @article{wang_peng2021,
  author = {Lei Wang and Hongjie Peng and Sarah Lamaison and Zhifu Qi and David M. Koshy and Michaela Burke Stevens and David Wakerley and Jos{\'{e}} A. Zamora Zeled{\'{o}}n and Laurie A. King and Lan Zhou and Yungchieh Lai and Marc Fontecave and John Gregoire and Frank Abild-Pedersen and Thomas F. Jaramillo and Christopher Hahn},
  doi = {10.1016/j.checat.2021.05.006},
@@ -508,6 +647,37 @@ https://doi.org/10.1021/acscatal.7b01374},
  title = {Methanol production from biomass syngas using Cu/ZnO/Al2O3 catalyst},
  url = {http://dx.doi.org/10.1063/5.0000870},
  year = {2020}
+}
+
+@article{zhang_liu2019,
+ author = {Zhi-Guang Zhang and Hui Liu and Xiao-Xiong Wang and Jun Zhang and Miao Yu and Seeram Ramakrishna and Yun-Ze Long},
+ doi = {10.3390/nano9030431},
+ file = {:/home/volk/Library/PDFs/2019/zhang_liu2019.pdf:pdf},
+ month = {mar},
+ number = {3},
+ pages = {431},
+ publisher = {{MDPI} {AG}},
+ title = {One-Step Low Temperature Hydrothermal Synthesis of Flexible {TiO}2/{PVDF}@{MoS}2 Core-Shell Heterostructured Fibers for Visible-Light-Driven Photocatalysis and Self-Cleaning},
+ url = {https://doi.org/10.3390%2Fnano9030431},
+ volume = {9},
+ year = {2019}
+}
+
+@article{zhang_yang2021,
+ author = {Lei Zhang and Tong Yang and Wenjie Zang and Zongkui Kou and Yuanyuan Ma and Moaz Waqar and Ximeng Liu and Lirong Zheng and Stephen J. Pennycook and Zhaolin Liu and Xian Jun Loh and Lei Shen and John Wang},
+ doi = {10.1002/advs.202101344},
+ file = {:/home/volk/Library/PDFs/2021/zhang_yang2021.pdf:pdf},
+ journal = {Advanced Science},
+ month = {jul},
+ number = {18},
+ pages = {2101344},
+ publisher = {Wiley},
+ title = {Quasi-Paired Pt Atomic Sites on Mo
+2
+C Promoting Selective Four-Electron Oxygen Reduction},
+ url = {https://doi.org/10.1002%2Fadvs.202101344},
+ volume = {8},
+ year = {2021}
 }
 
 @article{zhu_wu2017,
