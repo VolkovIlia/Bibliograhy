@@ -118,6 +118,20 @@
  year = {2017}
 }
 
+@article{deerattrakul_chukchuan2021,
+ author = {Varisara Deerattrakul and Anurak Chukchuan and Nattanida Thepphankulngarm and Jirayu Pornjaturawit and Napas Vacharameteevoranun and Thanyalak Chaisuwan and Paisan Kongkachuichay},
+ doi = {10.1039/d1nj01475g},
+ file = {:/home/volk/Library/PDFs/2021/deerattrakul_chukchuan2021.pdf:pdf},
+ journal = {New Journal of Chemistry},
+ number = {18},
+ pages = {8283--8290},
+ publisher = {Royal Society of Chemistry ({RSC})},
+ title = {Carbon dioxide hydrogenation to methanol over polybenzoxazine-based mesocarbon supported Cu{\textendash}Zn catalyst},
+ url = {https://doi.org/10.1039%2Fd1nj01475g},
+ volume = {45},
+ year = {2021}
+}
+
 @article{deerattrakul_dittanet2016,
  author = {Varisara Deerattrakul and Peerapan Dittanet and Montree Sawangphruk and Paisan Kongkachuichay},
  doi = {10.1016/j.jcou.2016.07.002},
@@ -185,6 +199,20 @@
  year = {2021}
 }
 
+@article{firestein_leybo2018,
+ author = {Konstantin L Firestein and Denis V Leybo and Alexander E Steinman and Andrey M Kovalskii and Andrei T Matveev and Anton M Manakhov and Irina V Sukhorukova and Pavel V Slukin and Nadezda K Fursova and Sergey G Ignatov and Dmitri V Golberg and Dmitry V Shtansky},
+ doi = {10.3762/bjnano.9.27},
+ file = {:/home/volk/Library/PDFs/2018/firestein_leybo2018.pdf:pdf},
+ journal = {Beilstein Journal of Nanotechnology},
+ month = {jan},
+ pages = {250--261},
+ publisher = {Beilstein Institut},
+ title = {{BN}/Ag hybrid nanomaterials with petal-like surfaces as catalysts and antibacterial agents},
+ url = {https://doi.org/10.3762%2Fbjnano.9.27},
+ volume = {9},
+ year = {2018}
+}
+
 @article{Gautam_2015,
  author = {Ravindra Kumar Gautam and Vandani Rawat and Sushmita Banerjee and Maria Angeles Sanroman and Shivani Soni and Sanjeev K. Singh and Mahesh Chandra Chattopadhyaya},
  doi = {10.1016/j.molliq.2015.09.006},
@@ -242,6 +270,33 @@
  year = {2019}
 }
 
+@article{keeling1960,
+ author = {Charles D. Keeling},
+ doi = {10.3402/tellusa.v12i2.9366},
+ file = {:/home/volk/Library/PDFs/1960/keeling1960.pdf:pdf},
+ journal = {Tellus},
+ month = {jan},
+ number = {2},
+ pages = {200--203},
+ publisher = {Informa {UK} Limited},
+ title = {The Concentration and Isotopic Abundances of Carbon Dioxide in the Atmosphere},
+ url = {https://doi.org/10.3402%2Ftellusa.v12i2.9366},
+ volume = {12},
+ year = {1960}
+}
+
+@article{konopatskii_firestein2021,
+ author = {A. S. Konopatskii and K. L. Firestein and I. N. Volkov and D. V. Leibo and V. V. Kalinina and D. V. Golberg and D. V. Shtanskii},
+ doi = {10.1134/s1063785021080186},
+ file = {:/home/volk/Library/PDFs/2021/konopatskii_firestein2021.pdf:pdf},
+ journal = {Technical Physics Letters},
+ month = {dec},
+ publisher = {Pleiades Publishing Ltd},
+ title = {New Heterogeneous Nanostructured Catalysts Based on Transition Metal Nanoparticles and Hexagonal Boron Nitride},
+ url = {https://doi.org/10.1134%2Fs1063785021080186},
+ year = {2021}
+}
+
 @article{konopatsky_firestein2021,
  author = {Anton S. Konopatsky and Konstantin L. Firestein and Nikolai D. Evdokimenko and Alexander L. Kustov and Viktor S. Baidyshev and Il{\textquotesingle}ya V. Chepkasov and Zahar I. Popov and Andrei T. Matveev and Igor V. Shetinin and Denis V. Leybo and Ilia N. Volkov and Andrey M. Kovalskii and Dmitri Golberg and Dmitry V. Shtansky},
  doi = {10.1016/j.jcat.2021.08.026},
@@ -253,6 +308,35 @@
  url = {https://doi.org/10.1016%2Fj.jcat.2021.08.026},
  volume = {402},
  year = {2021}
+}
+
+@article{konopatsky_leybo2020,
+ author = {Anton S. Konopatsky and Denis V. Leybo and Konstantin L. Firestein and Ilya V. Chepkasov and Zakhar I. Popov and Elizaveta S. Permyakova and Ilia N. Volkov and Andrey M. Kovalskii and Andrei T. Matveev and Dmitry V. Shtansky and Dmitri V. Golberg},
+ doi = {10.1002/cctc.201902257},
+ file = {:/home/volk/Library/PDFs/2020/konopatsky_leybo2020.pdf:pdf},
+ journal = {{ChemCatChem}},
+ month = {mar},
+ number = {6},
+ pages = {1691--1698},
+ publisher = {Wiley},
+ title = {Polyol Synthesis of Ag/{BN} Nanohybrids and their Catalytic Stability in {CO} Oxidation Reaction},
+ url = {https://doi.org/10.1002%2Fcctc.201902257},
+ volume = {12},
+ year = {2020}
+}
+
+@article{kovalskii_matveev2016,
+ author = {Andrey M. Kovalskii and Andrei T. Matveev and Oleg I. Lebedev and Irina V. Sukhorukova and Konstantin L. Firestein and Alexander E. Steinman and Dmitry V. Shtansky and Dmitri Golberg},
+ doi = {10.1039/c6ce01126h},
+ file = {:/home/volk/Library/PDFs/2016/kovalskii_matveev2016.pdf:pdf},
+ journal = {{CrystEngComm}},
+ number = {35},
+ pages = {6689--6699},
+ publisher = {Royal Society of Chemistry ({RSC})},
+ title = {Growth of spherical boron oxynitride nanoparticles with smooth and petalled surfaces during a chemical vapour deposition process},
+ url = {https://doi.org/10.1039%2Fc6ce01126h},
+ volume = {18},
+ year = {2016}
 }
 
 @article{kovalskii_matveev2020,
@@ -449,6 +533,21 @@
  year = {2011}
 }
 
+@article{rousseas_goldstein2013,
+ author = {Rousseas, Michael and Goldstein, Anna P. and Mickelson, William and Worsley, Marcus A. and Woo, Leta and Zettl, Alex},
+ doi = {10.1021/nn402452p},
+ file = {:/home/volk/Library/PDFs/2013/rousseas_goldstein2013.pdf:pdf},
+ journal = {ACS Nano},
+ month = {9},
+ number = {10},
+ pages = {8540-8546},
+ publisher = {American Chemical Society (ACS)},
+ title = {Synthesis of Highly Crystalline sp2-Bonded Boron Nitride Aerogels},
+ url = {http://dx.doi.org/10.1021/nn402452p},
+ volume = {7},
+ year = {2013}
+}
+
 @article{sharma_sharma2021,
  author = {Shweta Sharma and Gaurav Sharma and Amit Kumar and Pooja Dhiman and TahaniSaad AlGarni and Mu. Naushad and ZeidA. ALOthman and Florian J. Stadler},
  doi = {10.1016/j.seppur.2021.119481},
@@ -473,6 +572,20 @@
  url = {https://doi.org/10.1021%2Facsnano.0c03687},
  volume = {14},
  year = {2020}
+}
+
+@article{shtansky_firestein2018,
+ author = {Dmitry V. Shtansky and Konstantin L. Firestein and Dmitri V. Golberg},
+ doi = {10.1039/c8nr05027a},
+ file = {:/home/volk/Library/PDFs/2018/shtansky_firestein2018.pdf:pdf},
+ journal = {Nanoscale},
+ number = {37},
+ pages = {17477--17493},
+ publisher = {Royal Society of Chemistry ({RSC})},
+ title = {Fabrication and application of {BN} nanoparticles, nanosheets and their nanohybrids},
+ url = {https://doi.org/10.1039%2Fc8nr05027a},
+ volume = {10},
+ year = {2018}
 }
 
 @article{song_dong2021,
